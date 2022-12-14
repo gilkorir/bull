@@ -1,4 +1,4 @@
 # bull
 
-change me
+change me.
 Every one should complete the assignment today
